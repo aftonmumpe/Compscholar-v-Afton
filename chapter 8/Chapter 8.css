@@ -1,0 +1,32 @@
+/* 1. Style the container element with id "panelPreview" */
+#panelPreview {
+    background-color: #563C92;
+    background-image: url("../images/streamer_con_bg.png");
+    background-position: right bottom;
+    background-repeat: no-repeat;
+    color: white;
+    border: 5px solid #39ff14;
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+}
+
+/* 2. Style the bottom border for the <h1> element */
+h1 {
+    border-bottom: 3px dotted #39ff14;
+}
+
+/* 3. Style default links */
+a {
+    color: #39ff14;
+}
+
+/* 4. Style visited links to stay green */
+a:visited {
+    color: #39ff14;
+}
+
+/* 5. Style hovered links to turn yellow */
+a:hover {
+    color: yellow;
+}

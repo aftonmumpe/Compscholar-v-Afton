@@ -1,0 +1,39 @@
+body {
+	background-color: beige;
+}
+
+.back_link {
+	text-align: right;
+}
+
+a:visited {
+	color: blue;
+}
+
+/* Gallery photo styling for index.html */
+.gallery_photo {
+	height: 100px;
+	margin: 5px;
+	border: 1px solid black;
+}
+
+/* Robot container styling for description pages */
+.robot_div {
+	background-color: white;
+	text-align: center;
+	margin: 20px;
+	border: 5px solid orange;
+	width: 50%;
+}
+
+/* Robot image sizing on description pages */
+.robot_img {
+	height: 200px;
+}
+
+/* Caption formatting under each robot image */
+.robot_caption {
+	font-family: "Consolas";
+	font-weight: bold;
+	font-size: 18px;
+}
